@@ -31,7 +31,7 @@ Logistic regression achieved  : validation accuracy- 92.0%
 feedbacks save in the csv file.
 
 User interface:
-Streamlit web ui for user friendly like real world ai chatbots responses instend of labels.
+Streamlit web ui for user friendly like real world ai chatbots responses instead of labels.
 
 ![ui_sentiment](https://github.com/user-attachments/assets/a17a102d-b6a1-4b3b-88e8-283c73a8b031)
 
