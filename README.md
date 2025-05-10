@@ -36,7 +36,8 @@ Streamlit web ui for user friendly like real world ai chatbots responses instend
 ![ui_sentiment](https://github.com/user-attachments/assets/a17a102d-b6a1-4b3b-88e8-283c73a8b031)
 
 Responses:
-![reply1](https://github.com/user-attachments/assets/a84f316b-1545-417e-a397-b3a55b8de1c5)
+![reply3](https://github.com/user-attachments/assets/56636c17-5d36-45a8-aa31-65918cd5d604)
+
 
 
 
