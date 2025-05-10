@@ -27,7 +27,8 @@ Unicodes for emojis.
 Result:
 Logistic regression achieved  : validation accuracy- 92.0%
                                  Test accuracy- 91.55%
-feedbacks to be save in csv file.
+                                 
+feedbacks save in the csv file.
 
 User interface:
 Streamlit web ui for user friendly like real world ai chatbots responses instend of labels.
