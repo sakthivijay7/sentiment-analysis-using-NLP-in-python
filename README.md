@@ -22,6 +22,7 @@ Python,
 JupyterNotebook,
 NLTK,
 Streamlit.
+Unicodes for emojis.
 
 Result:
 Logistic regression achieved  : validation accuracy- 92.0%
