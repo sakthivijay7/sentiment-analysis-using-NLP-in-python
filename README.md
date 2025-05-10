@@ -1,19 +1,19 @@
 # sentiment-analysis-using-NLP-in-python
 Data collection:
-Dataset collected from kaggle it contains train.txt,test.txt,val.txt this three files.
+Dataset collected from kaggle it contains train.txt,test.txt,val.txt three files.
 
 Data handle:
 Pandas to read the text files ,seperated by semicolon and set the names of columns by Text,Labels.
 
 Data cleaning:
-Regex match the pattern ,then text to lower,remove non alphabet character.NLTK this toolkit to remove stopwords.
+Regex match the patterns ,then text to lower,remove non alphabet character.NLTK this toolkit to remove stopwords.
 cleaned text data stored in new column.
 
  Encoding:
  Labels to be encoding using Label encoder it assign 0-Anger,1-Fear,2-Joy,3-Love,4-Sadness,5-Surprise
  
 Training:
-Text Fearture extraction using Tfidfvectorizer.
+Text Features extraction using Tfidfvectorizer.
 Using logistic and Multinomial naive bayes algorithms to train a model.This two algorithmns text data handle it well.
 Store trained model and tokens in pickle file.
 
